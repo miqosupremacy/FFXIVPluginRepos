@@ -1,24 +1,23 @@
 [
   {
-	"Author": "Fay",
-	"Name": "Wordsmith Impatience Pre-Release",
-	"InternalName": "WordsmithIPR",
-	"AssemblyVersion": "1.0.0.0",
-	"Description": "forked and sdk version bumped because impatience and I need this, kthxbye",
-	"ApplicableVersion": "any",
-	"Tags": [
-		"wordsmith"
-	],
-	"DalamudApiLevel": 14,
-	"LoadRequiredState": 0,
-	"LoadSync": false,
-	"CanUnloadAsync": false,
-	"LoadPriority": 0,
-	"Punchline": "forked and sdk version bumped because impatience and I need this, kthxbye",
-	"AcceptsFeedback": true,
-	"DownloadLinkInstall": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
+    "Author": "Fay",
+    "Name": "WordsmithImpatiencePreRelease",
+    "Description": "Unofficial Wordsmith because impatient and need this",
+    "Punchline": "Wordsmith",
+    "InternalName": "WordsmithUPR",
+    "AssemblyVersion": "1.0.0",
+    "RepoUrl": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "wordsmith",
+      "prerelease"
+    ],
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/miqosupremacy/Wordsmith-DalamudPlugin/2f5d533ceaee5aec296a6e41978e06a7cd433d45/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
 	"DownloadLinkTesting": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
-	"DownloadLinkUpdate": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
-	"RepoUrl": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin"
+	"DownloadLinkUpdate": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip"
   }
 ]
