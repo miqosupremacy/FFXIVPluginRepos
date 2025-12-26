@@ -2,7 +2,7 @@
   {
 	"Author": "Fay",
 	"Name": "Wordsmith Impatience Pre-Release",
-	"InternalName": "Wordsmith",
+	"InternalName": "WordsmithIPR",
 	"AssemblyVersion": "1.0.0.0",
 	"Description": "forked and sdk version bumped because impatience and I need this, kthxbye",
 	"ApplicableVersion": "any",
