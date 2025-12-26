@@ -1,0 +1,24 @@
+[
+  {
+	"Author": "Fay",
+	"Name": "Wordsmith Impatience Pre-Release",
+	"InternalName": "Wordsmith",
+	"AssemblyVersion": "1.0.0.0",
+	"Description": "forked and sdk version bumped because impatience and I need this, kthxbye",
+	"ApplicableVersion": "any",
+	"Tags": [
+		"wordsmith"
+	],
+	"DalamudApiLevel": 14,
+	"LoadRequiredState": 0,
+	"LoadSync": false,
+	"CanUnloadAsync": false,
+	"LoadPriority": 0,
+	"Punchline": "forked and sdk version bumped because impatience and I need this, kthxbye",
+	"AcceptsFeedback": true,
+	"DownloadLinkInstall": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
+	"DownloadLinkTesting": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
+	"DownloadLinkUpdate": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin/releases/download/1.0.0.0/latest.zip",
+	"RepoUrl": "https://github.com/miqosupremacy/Wordsmith-DalamudPlugin"
+  }
+]
